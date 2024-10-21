@@ -86,7 +86,7 @@ body {
 
 .attribution {
     color: var(--stat-heading);
-    margin-bottom: 1rem;
+    margin-block: .5rem;
 }
 
 
